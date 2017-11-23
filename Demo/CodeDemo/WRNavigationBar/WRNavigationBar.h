@@ -6,6 +6,7 @@
 //  Copyright © 2017年 wangrui. All rights reserved.
 //
 //  Github地址：https://github.com/wangrui460/WRNavigationBar
+//  这是我自己的地址
 
 #import <UIKit/UIKit.h>
 @class WRCustomNavigationBar;
